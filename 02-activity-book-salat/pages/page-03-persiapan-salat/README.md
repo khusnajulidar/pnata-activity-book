@@ -1,5 +1,7 @@
 # Halaman 3 — Persiapan Salat
 
-Folder ini disediakan untuk file halaman 3 (Persiapan Salat) Activity Book Salat.
+Folder ini menyimpan file halaman 3 (Persiapan Salat) Activity Book Salat.
 
-Silakan unggah file gambar halaman 3 ke folder ini. Status finalnya tetap perlu ditinjau sesuai catatan proyek.
+**Revisi yang diminta:** hapus watermark ikon P’Nata di pojok kiri atas. Pengguna akan menambahkan watermark secara manual setelah revisi.
+
+Pertahankan seluruh elemen desain lainnya; jangan mengubah teks, ilustrasi, warna, tata letak, atau proporsi halaman. Status final halaman tetap perlu ditinjau.
