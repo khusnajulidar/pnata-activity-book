@@ -44,3 +44,6 @@ Gunakan status yang konsisten: **Belum Dimulai**, **Dalam Pengerjaan**, **Menung
 
 ## 7. Pengendalian versi dan arsip
 Repository ini adalah pusat utama Activity Book. Repository lama tetap menjadi arsip sampai seluruh file, ukuran, dan keterbukaannya diverifikasi. Jangan menghapus sumber hanya karena file sudah mulai disalin.
+
+## Ruang lingkup repository
+Repository ini difokuskan pada Activity Book Salat. Materi Wudhu tidak termasuk dalam ruang lingkup dan tidak perlu dimigrasikan karena pengguna telah memiliki master final tersendiri.
