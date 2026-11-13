@@ -1,5 +1,7 @@
 # Halaman 2 — Waktu Salat
 
-Folder ini disediakan untuk file halaman 2 (Waktu Salat) Activity Book Salat.
+Folder ini menyimpan file halaman 2 (Waktu Salat) Activity Book Salat.
 
-Silakan unggah file gambar final halaman 2 ke folder ini. Pertahankan file asli; jangan mengganti atau menghapusnya tanpa konfirmasi.
+**Revisi yang diminta:** hapus watermark ikon P’Nata di pojok kiri atas. Pengguna akan menambahkan watermark secara manual setelah revisi.
+
+Pertahankan seluruh elemen desain lainnya; jangan mengubah teks, ilustrasi, warna, tata letak, atau proporsi halaman.
