@@ -1,5 +1,7 @@
 # Halaman 1 — Sampul
 
-Folder ini disediakan untuk file halaman 1 (sampul) Activity Book Salat.
+Folder ini menyimpan file halaman 1 (sampul) Activity Book Salat.
 
-Silakan unggah file gambar final halaman 1 ke folder ini. Pertahankan file asli; jangan mengganti atau menghapusnya tanpa konfirmasi.
+**Revisi yang diminta:** hapus watermark ikon P’Nata di pojok kiri atas. Pengguna akan menambahkan watermark secara manual setelah revisi.
+
+Pertahankan seluruh elemen desain lainnya; jangan mengubah teks, ilustrasi, warna, tata letak, atau proporsi halaman.
