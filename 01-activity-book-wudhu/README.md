@@ -1,16 +1,16 @@
 # Activity Book 01 — Belajar Wudhu sesuai Sunnah
 
 ## Sumber
-Materi ini dimigrasikan dari repository `new-folder`. Repository sumber dipertahankan sebagai arsip sampai seluruh file diverifikasi.
+Materi sumber berada di repository arsip `new-folder`. File gambar dan PDF **belum berhasil dimigrasikan** ke repository pusat karena jalur transfer biner melalui koneksi GitHub yang tersedia tidak berhasil. Jangan menghapus repository sumber.
 
-## Isi arsip
+## Arsip sumber yang telah diinventarisasi
 - 12 gambar halaman PNG.
 - 1 PDF terkompresi: `Belajar Wudhu sesuai Sunnah_compressed.pdf`.
 
 ## Status
-**Materi sumber dimigrasikan; belum berarti audit isi dan persetujuan final telah dilakukan.** Periksa isi halaman, sumber dalil, teks Arab/harakat, dan ketepatan rincian fikih sebelum revisi atau publikasi.
+**Dokumentasi dan folder tujuan sudah disiapkan; aset biner masih menunggu pemindahan manual dan verifikasi.** Setelah file masuk, cocokkan 12 PNG dan PDF dengan arsip sumber, lalu periksa apakah semuanya dapat dibuka.
 
-## Struktur
+## Struktur tujuan
 - `pages/`: 12 gambar halaman.
 - `exports/source/`: PDF sumber terkompresi.
 - `references/`: catatan pemeriksaan dan sumber.
