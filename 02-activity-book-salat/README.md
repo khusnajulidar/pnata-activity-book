@@ -5,14 +5,18 @@
 - Target: anak kelas 1–2 SD.
 - Rencana: 10 halaman.
 
-## Status saat migrasi
-- Halaman 1: konsep selesai/disetujui menurut catatan proyek; file arsip tersedia.
-- Halaman 2: konsep selesai/disetujui menurut catatan proyek; file arsip tersedia.
+## Status halaman menurut dokumentasi proyek sumber
+- Halaman 1: konsep selesai/disetujui.
+- Halaman 2: konsep selesai/disetujui.
 - Halaman 3: pernah dibuat; masih perlu pemeriksaan akhir.
-- Halaman 4: konsep disetujui; versi gambar yang ada perlu direvisi oleh pengguna sebelum diteruskan.
-- Halaman 5–10: belum ditetapkan final; lanjutkan setelah halaman 4 selesai.
+- Halaman 4: konsep disetujui; pengguna akan merevisi gambar arsip sebelum melanjutkan.
+- Halaman 5–10: belum ditetapkan final.
 
-Status ini disalin dari dokumentasi sumber, bukan penilaian visual baru.
+## Status migrasi
+Dokumentasi teks utama dan catatan sumber sudah disalin ke repository pusat. Empat file gambar halaman 1–4 masih berada di repository sumber dan **belum dimigrasikan**. Pertahankan repository sumber sampai gambar dan seluruh aset lain berhasil dipindahkan serta diverifikasi.
+
+## Lanjut kerja
+Prioritas pengguna setelah migrasi: revisi halaman 4, kemudian melanjutkan halaman 5 dan seterusnya. Jangan mengubah keputusan halaman yang telah disetujui tanpa arahan pengguna.
 
 ## Folder
 - `pages/`: arsip halaman dan ruang kerja revisi.
