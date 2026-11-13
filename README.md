@@ -1,10 +1,9 @@
 # P’Nata — Activity Book
 
 **P’Nata — Media Belajar Anak**  
-Pusat dokumentasi, aset, sumber, dan versi produk Activity Book P’Nata.
+Pusat dokumentasi, aset, sumber, dan versi **Activity Book Salat P’Nata**.
 
 ## Produk
-- [01 — Belajar Wudhu sesuai Sunnah](01-activity-book-wudhu/README.md)
 - [02 — Yuk, Belajar Salat!](02-activity-book-salat/README.md)
 
 ## Pedoman utama
@@ -14,11 +13,10 @@ Pusat dokumentasi, aset, sumber, dan versi produk Activity Book P’Nata.
 - [Template halaman](99-templates/page-template/README.md)
 
 ## Status migrasi
-Repository ini menjadi pusat utama. Repository sumber tetap dipertahankan sebagai arsip sampai seluruh file hasil migrasi diperiksa dan dinyatakan lengkap. Jangan menghapus repository sumber sebelum verifikasi akhir.
+Repository ini menjadi pusat utama untuk proyek Activity Book Salat. Repository sumber Salat tetap dipertahankan sebagai arsip sampai seluruh file hasil migrasi diperiksa dan dinyatakan lengkap.
 
 ## Struktur
 - `00-brand-and-guidelines/`: standar identitas, syar’i, visual, dan produksi.
-- `01-activity-book-wudhu/`: materi Wudhu.
 - `02-activity-book-salat/`: materi Salat.
 - `99-templates/`: template produksi dan dokumentasi.
 
